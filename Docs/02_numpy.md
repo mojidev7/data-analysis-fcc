@@ -43,21 +43,13 @@ NumPy Array Type
 
 Numpy Array Dimensions
 
-    ```python
+    
     import numpy as np
-    ```
-    ```python
     a = np.array([
         [1,2,3],
         [4,5,6]
     ])
-    ```
-    ```python
     a.shape #(2, 3)
-    ```
-    ```python
     a.ndim #2
-    ```
-    ```python
     a.size #6
-    ```
+    
