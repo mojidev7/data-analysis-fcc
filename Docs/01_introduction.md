@@ -30,4 +30,4 @@ Jupyter
     if we press Y will use Python mode
     if we press Ctrl + Return curent row will run
     if we press Shift + Return current row will run and will go to the next row
-    if we press, C,X,V will use it for copy, cut and paste
+    if we press C,X,V will use it for copy, cut and paste

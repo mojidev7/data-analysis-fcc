@@ -20,8 +20,8 @@ NumPy Calculations
     a = np.array([1, 2, 3, 4])
     a[1] #2 
     a[-1] #4 -> last element
-    a[1:-1] == a[1:3] #2, 3
-    a[1:3] #2, 3, 4
+    a[1:-1] #2, 3
+    a[1:3] #2, 3
     a[0:] #1, 2, 3, 4
     a[::2] #[start:stop:step] -> 1, 3
     multiple indexing -> a[[1, 2, -1]] #2, 3, 4
